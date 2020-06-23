@@ -1,7 +1,0 @@
-{
-	"name": "LeaTriblader",
-	"prestart": "mod.js",
-	"version": "1.0.1",
-	"homepage": "https://github.com/keanuplayz/LeaTriblader",
-	"description": "This mod changes Lea's class to Triblader."
-}
